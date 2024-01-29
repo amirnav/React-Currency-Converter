@@ -1,0 +1,10 @@
+.banner {
+    padding: 0rem;
+    width: 100vw;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #611313;
+    font-size: 1.3rem;
+}
